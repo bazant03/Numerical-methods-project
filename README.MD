@@ -1,2 +1,2 @@
-#Numerical method project
+# Numerical method project
 Gaussian elimination calculator
